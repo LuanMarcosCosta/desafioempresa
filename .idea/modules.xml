@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Sicredi.iml" filepath="$PROJECT_DIR$/.idea/Sicredi.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio_sicred/aula_qa.iml" filepath="$PROJECT_DIR$/desafio_sicred/aula_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafioempresa.iml" filepath="$PROJECT_DIR$/.idea/desafioempresa.iml" />
     </modules>
   </component>
 </project>
